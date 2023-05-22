@@ -1,0 +1,11 @@
+<Project>
+	<ItemGroup>
+
+		<PackageReference Update="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+		<PackageReference Update="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+		<PackageReference Update="Serilog.AspNetCore" Version="7.0.0" />
+		<PackageReference Update="Microsoft.AspNetCore.OpenApi" Version="7.0.3" />
+		<PackageReference Update="Swashbuckle.AspNetCore" Version="6.4.0" />
+
+	</ItemGroup>
+</Project>
